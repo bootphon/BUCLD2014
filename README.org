@@ -1,0 +1,2 @@
+* BUCLD2014
+This script was used to calculate vowel cluster divergences reported in Alejandrina Cristia, Kristine Onishi, Golnoush Alamian, Maarten Versteegh, Amanda Seidl, "Acoustic cues to phonological status in infant-directed speech".
